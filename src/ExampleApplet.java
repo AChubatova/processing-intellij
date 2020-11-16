@@ -1,5 +1,6 @@
 
 import processing.core.*;
+import processing.core.*;
 
 public class ExampleApplet extends PApplet {
 
