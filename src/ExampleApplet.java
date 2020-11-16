@@ -1,7 +1,7 @@
 
 import processing.core.*;
 import processing.core.*;
-dsdlkj
+import processing.idonotexist.*;
 
 public class ExampleApplet extends PApplet {
 
